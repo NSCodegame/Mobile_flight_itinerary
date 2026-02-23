@@ -1,0 +1,5 @@
+{
+  "name": "Flightscry",
+  "description": "A mobile flight itinerary proof of concept for Skyscanner.",
+  "requestFramePermissions": []
+}
